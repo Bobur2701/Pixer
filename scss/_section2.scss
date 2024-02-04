@@ -1,0 +1,111 @@
+.section2 {
+    width: 1365px;
+    height: 1645px;
+
+    .teparoq {
+        padding-top: 86px;
+
+        center h3 {
+            font-weight: 400;
+            font-size: 16px;
+            padding-top: 15px;
+        }
+    }
+}
+
+.section2 {
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-weight: 400;
+        font-size: 16px;
+        padding: 20px 0px;
+    }
+}
+
+
+.section2 .box1 {
+    width: 1200px;
+    height: 298px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    gap: 30px;
+
+}
+
+.section2 .box2 {
+    width: 1200px;
+    height: 234px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    gap: 20px;
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-weight: 400;
+        font-size: 16px;
+    }
+}
+
+.section2 .box3 {
+    width: 1200px;
+    height: 268px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    gap: 40px;
+}
+
+.section2 .box4 {
+    width: 1200px;
+    height: 268px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    gap: 40px;
+}
+
+.section2 .box5 {
+    width: 1200px;
+    height: 242px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    gap: 40px;
+}
+
+
+
+.section2 .tugma {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+
+    button {
+        width: 167px;
+        height: 40px;
+        background-color: #00BAFC;
+        border-radius: 5px;
+        border: none;
+        font-size: 15px;
+        font-weight: 700;
+        color: white;
+    
+        &:hover {
+            width: 171px;
+            height: 43px;
+        }
+    }
+}

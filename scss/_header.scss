@@ -1,0 +1,42 @@
+header {
+    position: fixed;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1365px;
+    height: 76px;
+    box-shadow: 0px 3px 3px 0px #00000040;
+
+    
+    .right ul   {
+        display: flex;
+        align-items: center;
+
+        li  a {
+            padding: 0 16px;
+            color: black;
+            font-weight: 520;
+        }
+
+        button {
+            width: 159px;
+            height: 40px;
+            background-color: #00BAFC;
+            border-radius: 5px;
+            border: none;
+            font-size: 15px;
+            font-weight: 700;
+            box-shadow: 0px 4px 4px 0px #00000040;
+
+            a {
+                color: white;
+            }
+
+            &:hover {
+                width: 165px;
+                height: 45px;
+            }
+        }
+    }
+}

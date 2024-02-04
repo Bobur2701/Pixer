@@ -1,0 +1,16 @@
+@charset "UTF-8";
+@import "header";
+@import "hero";
+@import "section" ;
+@import "section2";
+@import "section3";
+@import "footer";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+}
